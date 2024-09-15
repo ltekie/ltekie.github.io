@@ -1,13 +1,33 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
-  title: "ltekie"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Luna Tekie"
+about:
+  id: intro-heading
+  template: trestles
+  image: images/profilepic.jpeg
+  links:
+    - icon: github
+      href: https://github.com/ltekie
+navbar:
+  background: light
+  search: true
+  left:
+    - text: "Home"
+    - href: index.qmd
+    - about.qmd
+    - projects.qmd
+      
+  page-footer:
+    left: |
+      &copy; Luna Tekie, 2024<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+     Site built with <a href='https://quarto.org/'>Quarto</a>
+
 
 format:
   html:

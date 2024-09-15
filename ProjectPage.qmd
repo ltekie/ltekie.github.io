@@ -1,5 +1,5 @@
 ---
-title: "Luna Tekie"
+title: "About"
 ---
 
 ::: {#intro-heading}
@@ -12,10 +12,8 @@ Macalester College \| St. Paul MN <br> B.A. in Data Science \| Sept 2022 - May 2
 
 ------------------------------------------------------------------------
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+About this site
 
 ```{r}
-1 + 1
+
 ```
