@@ -10,12 +10,3 @@ Hello world! My name is Luna and I'm currently a junior at Macalester College. I
 Macalester College \| St. Paul MN <br> B.A. in Data Science \| Sept 2022 - May 2026
 :::
 
-------------------------------------------------------------------------
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
